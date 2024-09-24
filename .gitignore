@@ -7,6 +7,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+note.ipynb/
 main_env
 myenv/
 env/
